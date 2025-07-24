@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/015265658ddb4ac895cad887ac2cd64b/artifacts
+end_time: 1753101876568
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 015265658ddb4ac895cad887ac2cd64b
+run_name: nimble-cow-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753101585853
+status: 4
+tags: []
+user_id: Hiep

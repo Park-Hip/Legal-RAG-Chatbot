@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/8605c5cc28214898b911d06707656210/artifacts
+end_time: 1753100722381
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 8605c5cc28214898b911d06707656210
+run_name: orderly-mare-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753100722328
+status: 4
+tags: []
+user_id: Hiep

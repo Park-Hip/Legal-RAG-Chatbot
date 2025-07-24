@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/41486219248a48a28259f07c7178b29f/artifacts
+end_time: 1753115263507
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 41486219248a48a28259f07c7178b29f
+run_name: wise-turtle-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753115216381
+status: 3
+tags: []
+user_id: Hiep

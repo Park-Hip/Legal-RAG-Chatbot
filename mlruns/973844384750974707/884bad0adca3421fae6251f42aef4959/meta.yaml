@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/884bad0adca3421fae6251f42aef4959/artifacts
+end_time: 1753107689629
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 884bad0adca3421fae6251f42aef4959
+run_name: sedate-roo-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753107648550
+status: 3
+tags: []
+user_id: Hiep

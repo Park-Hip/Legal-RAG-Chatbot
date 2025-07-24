@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/da455e1e36bd481b9a3f2165f423a645/artifacts
+end_time: 1753105933608
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: da455e1e36bd481b9a3f2165f423a645
+run_name: glamorous-ram-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105903041
+status: 3
+tags: []
+user_id: Hiep

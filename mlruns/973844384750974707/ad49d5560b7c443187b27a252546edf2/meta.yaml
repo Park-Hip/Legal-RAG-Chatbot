@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/ad49d5560b7c443187b27a252546edf2/artifacts
+end_time: 1753102930535
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: ad49d5560b7c443187b27a252546edf2
+run_name: whimsical-cub-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753102913061
+status: 3
+tags: []
+user_id: Hiep

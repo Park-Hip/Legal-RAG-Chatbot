@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/68ec5c80aa7e4527b6452603131cdfe6/artifacts
+end_time: 1753108704719
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 68ec5c80aa7e4527b6452603131cdfe6
+run_name: stylish-shoat-682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753108661730
+status: 3
+tags: []
+user_id: Hiep

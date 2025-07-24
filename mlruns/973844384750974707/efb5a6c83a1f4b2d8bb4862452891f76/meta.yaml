@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/efb5a6c83a1f4b2d8bb4862452891f76/artifacts
+end_time: 1753114537935
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: efb5a6c83a1f4b2d8bb4862452891f76
+run_name: incongruous-pig-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114459092
+status: 3
+tags: []
+user_id: Hiep

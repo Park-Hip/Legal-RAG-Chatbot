@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/6baf85ad2e1b4dc2b7936a0b09921ab4/artifacts
+end_time: 1753086939277
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 6baf85ad2e1b4dc2b7936a0b09921ab4
+run_name: dashing-wasp-502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753086880327
+status: 3
+tags: []
+user_id: Hiep

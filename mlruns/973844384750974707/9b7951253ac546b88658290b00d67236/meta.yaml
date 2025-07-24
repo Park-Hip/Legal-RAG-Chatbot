@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/9b7951253ac546b88658290b00d67236/artifacts
+end_time: 1753103910455
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 9b7951253ac546b88658290b00d67236
+run_name: resilient-boar-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753103867821
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/c6b1150d0def428fb2a90ebc67c9e7df/artifacts
+end_time: 1753118210684
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: c6b1150d0def428fb2a90ebc67c9e7df
+run_name: sedate-duck-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753118145641
+status: 3
+tags: []
+user_id: Hiep

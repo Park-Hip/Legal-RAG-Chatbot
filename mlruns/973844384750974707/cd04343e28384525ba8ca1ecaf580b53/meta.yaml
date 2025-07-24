@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/cd04343e28384525ba8ca1ecaf580b53/artifacts
+end_time: 1753108661698
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: cd04343e28384525ba8ca1ecaf580b53
+run_name: funny-quail-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753108571840
+status: 3
+tags: []
+user_id: Hiep

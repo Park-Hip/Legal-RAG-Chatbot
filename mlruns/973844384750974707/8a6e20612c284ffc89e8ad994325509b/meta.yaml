@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/8a6e20612c284ffc89e8ad994325509b/artifacts
+end_time: 1753100685405
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 8a6e20612c284ffc89e8ad994325509b
+run_name: bedecked-conch-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753100685384
+status: 4
+tags: []
+user_id: Hiep

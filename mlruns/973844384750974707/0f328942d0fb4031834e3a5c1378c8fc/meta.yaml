@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/0f328942d0fb4031834e3a5c1378c8fc/artifacts
+end_time: 1753106394067
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 0f328942d0fb4031834e3a5c1378c8fc
+run_name: bald-asp-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106364775
+status: 3
+tags: []
+user_id: Hiep

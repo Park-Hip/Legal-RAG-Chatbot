@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/770a78aed3334f3ca0431a4e21e3c09d/artifacts
+end_time: 1753107580484
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 770a78aed3334f3ca0431a4e21e3c09d
+run_name: likeable-midge-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753107550740
+status: 3
+tags: []
+user_id: Hiep

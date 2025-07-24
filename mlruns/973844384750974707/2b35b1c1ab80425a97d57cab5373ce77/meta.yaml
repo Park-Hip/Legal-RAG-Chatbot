@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/2b35b1c1ab80425a97d57cab5373ce77/artifacts
+end_time: 1753107423419
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 2b35b1c1ab80425a97d57cab5373ce77
+run_name: clean-whale-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753107368292
+status: 3
+tags: []
+user_id: Hiep

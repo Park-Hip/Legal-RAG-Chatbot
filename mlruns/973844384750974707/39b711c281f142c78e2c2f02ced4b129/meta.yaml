@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/39b711c281f142c78e2c2f02ced4b129/artifacts
+end_time: 1753108829112
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 39b711c281f142c78e2c2f02ced4b129
+run_name: enthused-snake-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753108806551
+status: 3
+tags: []
+user_id: Hiep

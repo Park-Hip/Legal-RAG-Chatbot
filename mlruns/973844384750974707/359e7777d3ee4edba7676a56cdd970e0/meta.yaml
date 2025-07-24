@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/359e7777d3ee4edba7676a56cdd970e0/artifacts
+end_time: 1753103970309
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 359e7777d3ee4edba7676a56cdd970e0
+run_name: bold-rook-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753103939140
+status: 3
+tags: []
+user_id: Hiep

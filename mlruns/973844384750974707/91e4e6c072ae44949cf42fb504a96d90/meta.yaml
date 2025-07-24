@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/91e4e6c072ae44949cf42fb504a96d90/artifacts
+end_time: 1753106849003
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 91e4e6c072ae44949cf42fb504a96d90
+run_name: beautiful-tern-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106801712
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/767f63471b364bf28999e1c847b5cffc/artifacts
+end_time: 1753113811387
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 767f63471b364bf28999e1c847b5cffc
+run_name: vaunted-toad-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753113757251
+status: 3
+tags: []
+user_id: Hiep

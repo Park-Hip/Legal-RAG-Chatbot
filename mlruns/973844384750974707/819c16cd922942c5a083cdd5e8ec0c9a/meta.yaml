@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/819c16cd922942c5a083cdd5e8ec0c9a/artifacts
+end_time: 1753100855601
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 819c16cd922942c5a083cdd5e8ec0c9a
+run_name: adventurous-snail-77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753100846290
+status: 4
+tags: []
+user_id: Hiep

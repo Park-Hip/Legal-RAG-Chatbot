@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/9a3328576ae54bf3a60b4c1d3b84c8b5/artifacts
+end_time: 1753111067005
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 9a3328576ae54bf3a60b4c1d3b84c8b5
+run_name: glamorous-vole-410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111024201
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/25d9c028bdc342909ed2c0476361387c/artifacts
+end_time: 1753104997545
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 25d9c028bdc342909ed2c0476361387c
+run_name: fun-hare-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104968264
+status: 3
+tags: []
+user_id: Hiep

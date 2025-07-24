@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/00f1056a5ce5458c860a455779737128/artifacts
+end_time: 1753108571808
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 00f1056a5ce5458c860a455779737128
+run_name: dazzling-whale-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753108502264
+status: 3
+tags: []
+user_id: Hiep

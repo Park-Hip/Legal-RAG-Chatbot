@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/65a349c60ec54b148d7f6b3d1b3b0dbf/artifacts
+end_time: 1753114587162
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 65a349c60ec54b148d7f6b3d1b3b0dbf
+run_name: sincere-hawk-931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114537968
+status: 3
+tags: []
+user_id: Hiep

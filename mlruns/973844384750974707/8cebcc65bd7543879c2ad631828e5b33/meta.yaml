@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/8cebcc65bd7543879c2ad631828e5b33/artifacts
+end_time: 1753110293199
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 8cebcc65bd7543879c2ad631828e5b33
+run_name: resilient-flea-712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753110186016
+status: 3
+tags: []
+user_id: Hiep

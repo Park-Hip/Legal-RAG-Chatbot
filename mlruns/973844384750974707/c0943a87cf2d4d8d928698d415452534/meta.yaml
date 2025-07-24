@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/c0943a87cf2d4d8d928698d415452534/artifacts
+end_time: 1753103687996
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: c0943a87cf2d4d8d928698d415452534
+run_name: wistful-ram-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753103665735
+status: 3
+tags: []
+user_id: Hiep

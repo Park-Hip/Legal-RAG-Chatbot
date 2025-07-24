@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/2211ef748ba44b1eba5a8c30d24f6f70/artifacts
+end_time: 1753104484586
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 2211ef748ba44b1eba5a8c30d24f6f70
+run_name: stately-pig-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104460816
+status: 3
+tags: []
+user_id: Hiep

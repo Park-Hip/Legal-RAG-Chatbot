@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/52d2487f9995460c9dd19551f5d0d3bb/artifacts
+end_time: 1753108191701
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 52d2487f9995460c9dd19551f5d0d3bb
+run_name: nosy-fowl-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753108098973
+status: 3
+tags: []
+user_id: Hiep

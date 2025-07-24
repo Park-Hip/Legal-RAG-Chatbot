@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/05e31abd113345649a97d0518d77feed/artifacts
+end_time: 1753118318989
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 05e31abd113345649a97d0518d77feed
+run_name: serious-lynx-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753118278467
+status: 3
+tags: []
+user_id: Hiep

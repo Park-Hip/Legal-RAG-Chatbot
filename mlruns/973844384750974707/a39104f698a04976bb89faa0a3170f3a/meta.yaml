@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/a39104f698a04976bb89faa0a3170f3a/artifacts
+end_time: 1753107368265
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: a39104f698a04976bb89faa0a3170f3a
+run_name: caring-doe-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753107326940
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/e4582e4d201245e288b15729899e44be/artifacts
+end_time: 1753106938832
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: e4582e4d201245e288b15729899e44be
+run_name: classy-stag-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106895584
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/6d92e429a9c04da2bd9b9766d6ffb8b6/artifacts
+end_time: 1753105577751
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 6d92e429a9c04da2bd9b9766d6ffb8b6
+run_name: ambitious-mouse-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105522030
+status: 3
+tags: []
+user_id: Hiep

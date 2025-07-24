@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/61155448cfc94c66983b8f0742dfe22a/artifacts
+end_time: 1753102668673
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 61155448cfc94c66983b8f0742dfe22a
+run_name: clumsy-trout-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753102634937
+status: 3
+tags: []
+user_id: Hiep

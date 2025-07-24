@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/8628a77ccd554bdfb8ad4ad7cb1c0652/artifacts
+end_time: 1753105738160
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 8628a77ccd554bdfb8ad4ad7cb1c0652
+run_name: flawless-mole-798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105714279
+status: 3
+tags: []
+user_id: Hiep

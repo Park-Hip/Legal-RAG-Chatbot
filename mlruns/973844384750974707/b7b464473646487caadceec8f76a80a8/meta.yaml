@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/b7b464473646487caadceec8f76a80a8/artifacts
+end_time: 1753108806525
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: b7b464473646487caadceec8f76a80a8
+run_name: intrigued-pig-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753108783297
+status: 3
+tags: []
+user_id: Hiep

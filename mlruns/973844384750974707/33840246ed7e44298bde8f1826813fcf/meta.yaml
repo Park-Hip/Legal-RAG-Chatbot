@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/33840246ed7e44298bde8f1826813fcf/artifacts
+end_time: 1753106670168
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 33840246ed7e44298bde8f1826813fcf
+run_name: stately-kit-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106631378
+status: 3
+tags: []
+user_id: Hiep

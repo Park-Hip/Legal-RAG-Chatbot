@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/b03c004359664d2885cb5eaa124fb979/artifacts
+end_time: 1753117586251
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: b03c004359664d2885cb5eaa124fb979
+run_name: kindly-shark-560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753117531257
+status: 3
+tags: []
+user_id: Hiep

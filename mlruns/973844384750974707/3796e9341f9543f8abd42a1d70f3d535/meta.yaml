@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/3796e9341f9543f8abd42a1d70f3d535/artifacts
+end_time: 1753108036423
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 3796e9341f9543f8abd42a1d70f3d535
+run_name: redolent-seal-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753107982395
+status: 3
+tags: []
+user_id: Hiep

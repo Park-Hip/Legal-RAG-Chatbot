@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/6edce27345ac4bc584cce467867a7765/artifacts
+end_time: 1753105394215
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 6edce27345ac4bc584cce467867a7765
+run_name: bittersweet-gull-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105376809
+status: 3
+tags: []
+user_id: Hiep

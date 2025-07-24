@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/7261b4bdf7a240e0a1ad7529b48d9c36/artifacts
+end_time: 1753118145609
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 7261b4bdf7a240e0a1ad7529b48d9c36
+run_name: delicate-yak-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753118124066
+status: 3
+tags: []
+user_id: Hiep

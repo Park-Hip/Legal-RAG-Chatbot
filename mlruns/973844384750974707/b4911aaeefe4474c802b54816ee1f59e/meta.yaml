@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/b4911aaeefe4474c802b54816ee1f59e/artifacts
+end_time: 1753108929412
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: b4911aaeefe4474c802b54816ee1f59e
+run_name: agreeable-crane-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753108888579
+status: 3
+tags: []
+user_id: Hiep

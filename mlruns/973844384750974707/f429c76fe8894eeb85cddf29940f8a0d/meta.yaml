@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/f429c76fe8894eeb85cddf29940f8a0d/artifacts
+end_time: 1753118746404
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: f429c76fe8894eeb85cddf29940f8a0d
+run_name: ambitious-skink-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753118677118
+status: 3
+tags: []
+user_id: Hiep

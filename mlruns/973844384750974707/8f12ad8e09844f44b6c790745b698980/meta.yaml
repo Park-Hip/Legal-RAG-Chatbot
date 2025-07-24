@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/8f12ad8e09844f44b6c790745b698980/artifacts
+end_time: 1753115216349
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 8f12ad8e09844f44b6c790745b698980
+run_name: judicious-hound-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753115174919
+status: 3
+tags: []
+user_id: Hiep

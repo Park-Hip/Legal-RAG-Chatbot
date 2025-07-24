@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/bf7b78343e5c4d6b96a67a3397ff383b/artifacts
+end_time: 1753103404483
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: bf7b78343e5c4d6b96a67a3397ff383b
+run_name: stately-dog-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753103385191
+status: 3
+tags: []
+user_id: Hiep

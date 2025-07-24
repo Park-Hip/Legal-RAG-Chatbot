@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/1836086e3a62405fbfcab63ab237f619/artifacts
+end_time: 1753105202277
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 1836086e3a62405fbfcab63ab237f619
+run_name: grandiose-cow-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105115974
+status: 3
+tags: []
+user_id: Hiep

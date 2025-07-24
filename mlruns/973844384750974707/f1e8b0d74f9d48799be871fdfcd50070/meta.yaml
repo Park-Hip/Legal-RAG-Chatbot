@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/f1e8b0d74f9d48799be871fdfcd50070/artifacts
+end_time: 1753102705643
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: f1e8b0d74f9d48799be871fdfcd50070
+run_name: able-robin-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753102668706
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/b0d997694e15427388db44b9b4018633/artifacts
+end_time: 1753111771749
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: b0d997694e15427388db44b9b4018633
+run_name: gaudy-wasp-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111674203
+status: 3
+tags: []
+user_id: Hiep

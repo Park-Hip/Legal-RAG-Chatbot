@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/95cf79ab42ad4fa399b2950485168367/artifacts
+end_time: 1753117962474
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 95cf79ab42ad4fa399b2950485168367
+run_name: salty-mule-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753117909644
+status: 3
+tags: []
+user_id: Hiep

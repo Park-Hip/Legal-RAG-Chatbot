@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/1f74464abf4f49c8a81f61c5218bf468/artifacts
+end_time: 1753103574491
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 1f74464abf4f49c8a81f61c5218bf468
+run_name: nosy-lynx-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753103537959
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/d8232057e4a54b29bd71d5931dbc11a1/artifacts
+end_time: 1753114028745
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: d8232057e4a54b29bd71d5931dbc11a1
+run_name: orderly-mink-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753113894676
+status: 3
+tags: []
+user_id: Hiep

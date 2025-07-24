@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/ac73b6026be949ad94e3849424e7344d/artifacts
+end_time: 1753105714254
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: ac73b6026be949ad94e3849424e7344d
+run_name: melodic-zebra-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105691164
+status: 3
+tags: []
+user_id: Hiep

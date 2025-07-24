@@ -1,0 +1,5 @@
+.env
+.venv/
+.deleted/
+test.ipynb
+aliases/

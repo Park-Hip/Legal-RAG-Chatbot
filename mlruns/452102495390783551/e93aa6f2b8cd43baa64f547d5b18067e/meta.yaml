@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/452102495390783551/e93aa6f2b8cd43baa64f547d5b18067e/artifacts
+end_time: 1753352212277
+entry_point_name: ''
+experiment_id: '452102495390783551'
+lifecycle_stage: active
+run_id: e93aa6f2b8cd43baa64f547d5b18067e
+run_name: dazzling-hawk-232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753352207971
+status: 4
+tags: []
+user_id: Hiep

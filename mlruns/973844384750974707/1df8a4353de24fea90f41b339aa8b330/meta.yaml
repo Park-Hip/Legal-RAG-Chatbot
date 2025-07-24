@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/1df8a4353de24fea90f41b339aa8b330/artifacts
+end_time: 1753104779948
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 1df8a4353de24fea90f41b339aa8b330
+run_name: incongruous-tern-420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104758377
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/a6fa0f6acc064b469739a0e8d568465d/artifacts
+end_time: 1753116992192
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: a6fa0f6acc064b469739a0e8d568465d
+run_name: luminous-gnat-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753116919268
+status: 3
+tags: []
+user_id: Hiep

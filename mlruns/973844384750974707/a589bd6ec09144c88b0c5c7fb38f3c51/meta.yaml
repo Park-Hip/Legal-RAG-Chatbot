@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/a589bd6ec09144c88b0c5c7fb38f3c51/artifacts
+end_time: 1753117189616
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: a589bd6ec09144c88b0c5c7fb38f3c51
+run_name: classy-quail-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753117118714
+status: 3
+tags: []
+user_id: Hiep

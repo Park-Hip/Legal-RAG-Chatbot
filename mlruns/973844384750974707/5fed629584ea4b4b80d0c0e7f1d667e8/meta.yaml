@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/5fed629584ea4b4b80d0c0e7f1d667e8/artifacts
+end_time: 1753112383662
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 5fed629584ea4b4b80d0c0e7f1d667e8
+run_name: thoughtful-cow-498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753112298488
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/498c42b72310453cbc2274a5ac149db0/artifacts
+end_time: 1753114999817
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 498c42b72310453cbc2274a5ac149db0
+run_name: treasured-wolf-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114907899
+status: 3
+tags: []
+user_id: Hiep

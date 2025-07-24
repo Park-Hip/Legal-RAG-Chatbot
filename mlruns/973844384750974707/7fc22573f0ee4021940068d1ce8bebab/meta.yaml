@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/7fc22573f0ee4021940068d1ce8bebab/artifacts
+end_time: 1753118894387
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 7fc22573f0ee4021940068d1ce8bebab
+run_name: vaunted-bass-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753118820304
+status: 3
+tags: []
+user_id: Hiep

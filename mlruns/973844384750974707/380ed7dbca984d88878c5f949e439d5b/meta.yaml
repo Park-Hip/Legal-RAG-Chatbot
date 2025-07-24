@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/380ed7dbca984d88878c5f949e439d5b/artifacts
+end_time: 1753102951052
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 380ed7dbca984d88878c5f949e439d5b
+run_name: powerful-bird-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753102930569
+status: 3
+tags: []
+user_id: Hiep

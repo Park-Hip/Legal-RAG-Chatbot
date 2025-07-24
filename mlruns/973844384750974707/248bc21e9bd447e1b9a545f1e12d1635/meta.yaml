@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/248bc21e9bd447e1b9a545f1e12d1635/artifacts
+end_time: 1753103039008
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 248bc21e9bd447e1b9a545f1e12d1635
+run_name: thundering-shrew-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753103007858
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/4d6f45e9c8944799a64c93f341204c54/artifacts
+end_time: 1753105691137
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 4d6f45e9c8944799a64c93f341204c54
+run_name: wistful-grub-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105660558
+status: 3
+tags: []
+user_id: Hiep

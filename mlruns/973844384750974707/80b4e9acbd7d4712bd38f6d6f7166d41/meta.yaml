@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/80b4e9acbd7d4712bd38f6d6f7166d41/artifacts
+end_time: 1753089107964
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 80b4e9acbd7d4712bd38f6d6f7166d41
+run_name: bright-ape-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753089080569
+status: 3
+tags: []
+user_id: Hiep

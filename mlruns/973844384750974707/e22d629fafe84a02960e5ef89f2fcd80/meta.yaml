@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/e22d629fafe84a02960e5ef89f2fcd80/artifacts
+end_time: 1753104936849
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: e22d629fafe84a02960e5ef89f2fcd80
+run_name: stately-kite-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104918397
+status: 3
+tags: []
+user_id: Hiep

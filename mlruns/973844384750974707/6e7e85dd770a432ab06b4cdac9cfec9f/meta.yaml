@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/6e7e85dd770a432ab06b4cdac9cfec9f/artifacts
+end_time: 1753110798594
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 6e7e85dd770a432ab06b4cdac9cfec9f
+run_name: powerful-grouse-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753110715564
+status: 3
+tags: []
+user_id: Hiep

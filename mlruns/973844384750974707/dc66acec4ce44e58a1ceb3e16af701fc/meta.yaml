@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/dc66acec4ce44e58a1ceb3e16af701fc/artifacts
+end_time: 1753106129866
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: dc66acec4ce44e58a1ceb3e16af701fc
+run_name: rogue-mule-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106087126
+status: 3
+tags: []
+user_id: Hiep

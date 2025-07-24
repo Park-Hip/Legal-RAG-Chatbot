@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/b022a62498d44b8ab7e4799ca1fd7284/artifacts
+end_time: 1753103537927
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: b022a62498d44b8ab7e4799ca1fd7284
+run_name: spiffy-moth-842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753103520167
+status: 3
+tags: []
+user_id: Hiep

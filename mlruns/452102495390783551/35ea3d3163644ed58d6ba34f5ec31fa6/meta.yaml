@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/452102495390783551/35ea3d3163644ed58d6ba34f5ec31fa6/artifacts
+end_time: 1753351811438
+entry_point_name: ''
+experiment_id: '452102495390783551'
+lifecycle_stage: active
+run_id: 35ea3d3163644ed58d6ba34f5ec31fa6
+run_name: spiffy-dove-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753351806744
+status: 3
+tags: []
+user_id: Hiep

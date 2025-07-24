@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/655277555355443583/00477d6ec4e84196958b26cf16a5a79c/artifacts
+end_time: 1753335337893
+entry_point_name: ''
+experiment_id: '655277555355443583'
+lifecycle_stage: active
+run_id: 00477d6ec4e84196958b26cf16a5a79c
+run_name: salty-colt-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753335332651
+status: 3
+tags: []
+user_id: Hiep

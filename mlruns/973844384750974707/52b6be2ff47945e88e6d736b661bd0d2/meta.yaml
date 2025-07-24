@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/52b6be2ff47945e88e6d736b661bd0d2/artifacts
+end_time: 1753102759906
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 52b6be2ff47945e88e6d736b661bd0d2
+run_name: blushing-shoat-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753102729145
+status: 3
+tags: []
+user_id: Hiep

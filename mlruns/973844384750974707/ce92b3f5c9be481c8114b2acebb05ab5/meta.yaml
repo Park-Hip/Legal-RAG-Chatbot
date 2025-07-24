@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/ce92b3f5c9be481c8114b2acebb05ab5/artifacts
+end_time: 1753105660518
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: ce92b3f5c9be481c8114b2acebb05ab5
+run_name: classy-stork-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105633263
+status: 3
+tags: []
+user_id: Hiep

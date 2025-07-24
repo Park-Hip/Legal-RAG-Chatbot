@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/655277555355443583
+creation_time: 1753268571482
+experiment_id: '655277555355443583'
+last_update_time: 1753268571482
+lifecycle_stage: active
+name: evaluate_retriever

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/452102495390783551/1b8f66d22f6746789e315ddf29d34e13/artifacts
+end_time: 1753352501744
+entry_point_name: ''
+experiment_id: '452102495390783551'
+lifecycle_stage: active
+run_id: 1b8f66d22f6746789e315ddf29d34e13
+run_name: gentle-auk-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753352498125
+status: 4
+tags: []
+user_id: Hiep

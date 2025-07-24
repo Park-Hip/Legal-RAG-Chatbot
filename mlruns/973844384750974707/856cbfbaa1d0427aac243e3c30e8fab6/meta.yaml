@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/856cbfbaa1d0427aac243e3c30e8fab6/artifacts
+end_time: 1753103520135
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 856cbfbaa1d0427aac243e3c30e8fab6
+run_name: vaunted-cod-321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753103495193
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/35cd25ca5e884863aa90e99bd13df772/artifacts
+end_time: 1753104649794
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 35cd25ca5e884863aa90e99bd13df772
+run_name: whimsical-perch-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104614413
+status: 3
+tags: []
+user_id: Hiep

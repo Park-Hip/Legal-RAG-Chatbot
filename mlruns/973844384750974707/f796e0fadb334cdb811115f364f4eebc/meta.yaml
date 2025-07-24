@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/f796e0fadb334cdb811115f364f4eebc/artifacts
+end_time: 1753106506737
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: f796e0fadb334cdb811115f364f4eebc
+run_name: intrigued-trout-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106472643
+status: 3
+tags: []
+user_id: Hiep

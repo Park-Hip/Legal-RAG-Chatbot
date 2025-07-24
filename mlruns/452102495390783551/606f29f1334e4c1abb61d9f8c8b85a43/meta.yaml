@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/452102495390783551/606f29f1334e4c1abb61d9f8c8b85a43/artifacts
+end_time: 1753347779395
+entry_point_name: ''
+experiment_id: '452102495390783551'
+lifecycle_stage: active
+run_id: 606f29f1334e4c1abb61d9f8c8b85a43
+run_name: overjoyed-ox-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753347777529
+status: 3
+tags: []
+user_id: Hiep

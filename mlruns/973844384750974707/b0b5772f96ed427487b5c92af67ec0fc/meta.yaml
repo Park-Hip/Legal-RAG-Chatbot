@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/b0b5772f96ed427487b5c92af67ec0fc/artifacts
+end_time: 1753105522003
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: b0b5772f96ed427487b5c92af67ec0fc
+run_name: clean-boar-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105482780
+status: 3
+tags: []
+user_id: Hiep

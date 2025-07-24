@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/2703d4de66484e2f83e74bd79a2033db/artifacts
+end_time: 1753088805942
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 2703d4de66484e2f83e74bd79a2033db
+run_name: learned-whale-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753088624539
+status: 3
+tags: []
+user_id: Hiep

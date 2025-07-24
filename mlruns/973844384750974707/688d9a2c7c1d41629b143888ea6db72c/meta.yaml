@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/688d9a2c7c1d41629b143888ea6db72c/artifacts
+end_time: 1753107145817
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 688d9a2c7c1d41629b143888ea6db72c
+run_name: auspicious-stag-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753107090687
+status: 3
+tags: []
+user_id: Hiep

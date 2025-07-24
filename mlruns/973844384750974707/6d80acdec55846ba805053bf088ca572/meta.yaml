@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/6d80acdec55846ba805053bf088ca572/artifacts
+end_time: 1753102577950
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 6d80acdec55846ba805053bf088ca572
+run_name: resilient-grouse-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753102530886
+status: 3
+tags: []
+user_id: Hiep

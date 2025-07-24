@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/1ca4f028fe544bbdbcb439c9003dd597/artifacts
+end_time: 1753119305965
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 1ca4f028fe544bbdbcb439c9003dd597
+run_name: invincible-shrew-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119219170
+status: 3
+tags: []
+user_id: Hiep

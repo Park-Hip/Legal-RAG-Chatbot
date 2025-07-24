@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/452102495390783551/a9f80716b75845efb6a9ec64dc0bbcad/artifacts
+end_time: 1753347936221
+entry_point_name: ''
+experiment_id: '452102495390783551'
+lifecycle_stage: active
+run_id: a9f80716b75845efb6a9ec64dc0bbcad
+run_name: judicious-ape-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753347934983
+status: 3
+tags: []
+user_id: Hiep

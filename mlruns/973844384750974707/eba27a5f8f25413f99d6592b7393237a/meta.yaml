@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/eba27a5f8f25413f99d6592b7393237a/artifacts
+end_time: 1753104460785
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: eba27a5f8f25413f99d6592b7393237a
+run_name: flawless-goose-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104444514
+status: 3
+tags: []
+user_id: Hiep

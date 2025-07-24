@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/96df513a4fd949feb62664b3c720d336/artifacts
+end_time: 1753116274164
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 96df513a4fd949feb62664b3c720d336
+run_name: gifted-squid-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753116203030
+status: 3
+tags: []
+user_id: Hiep

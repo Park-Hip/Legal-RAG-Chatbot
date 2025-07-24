@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/8d2dc1b7b3b343269e948c114ae00ccf/artifacts
+end_time: 1753116563195
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 8d2dc1b7b3b343269e948c114ae00ccf
+run_name: upset-crane-744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753116491279
+status: 3
+tags: []
+user_id: Hiep

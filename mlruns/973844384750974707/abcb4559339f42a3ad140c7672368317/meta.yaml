@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/abcb4559339f42a3ad140c7672368317/artifacts
+end_time: 1753110325838
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: abcb4559339f42a3ad140c7672368317
+run_name: colorful-mare-439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753110293240
+status: 3
+tags: []
+user_id: Hiep

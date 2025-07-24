@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/0d0576d827c748f5b4a37eed3e265584/artifacts
+end_time: 1753116128836
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 0d0576d827c748f5b4a37eed3e265584
+run_name: adorable-ox-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753116050601
+status: 3
+tags: []
+user_id: Hiep

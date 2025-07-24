@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/2cb870728063480489400eeb14dc95ca/artifacts
+end_time: 1753104820705
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 2cb870728063480489400eeb14dc95ca
+run_name: enchanting-skunk-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104799705
+status: 3
+tags: []
+user_id: Hiep

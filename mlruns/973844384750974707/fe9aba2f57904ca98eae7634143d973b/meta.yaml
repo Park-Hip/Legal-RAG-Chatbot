@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/fe9aba2f57904ca98eae7634143d973b/artifacts
+end_time: 1753119338537
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: fe9aba2f57904ca98eae7634143d973b
+run_name: unruly-ray-533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119305997
+status: 4
+tags: []
+user_id: Hiep

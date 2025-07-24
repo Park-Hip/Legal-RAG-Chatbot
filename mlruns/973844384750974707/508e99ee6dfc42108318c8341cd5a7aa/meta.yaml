@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/508e99ee6dfc42108318c8341cd5a7aa/artifacts
+end_time: 1753102913028
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 508e99ee6dfc42108318c8341cd5a7aa
+run_name: resilient-lynx-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753102867367
+status: 3
+tags: []
+user_id: Hiep

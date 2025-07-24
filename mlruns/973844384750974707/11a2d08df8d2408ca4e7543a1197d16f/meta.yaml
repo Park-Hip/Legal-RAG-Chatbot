@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/11a2d08df8d2408ca4e7543a1197d16f/artifacts
+end_time: 1753112058332
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 11a2d08df8d2408ca4e7543a1197d16f
+run_name: melodic-rat-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111988657
+status: 3
+tags: []
+user_id: Hiep

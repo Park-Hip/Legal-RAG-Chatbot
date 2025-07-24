@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/bbf8b06128254d9eb46d53fc536b61a6/artifacts
+end_time: 1753105796354
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: bbf8b06128254d9eb46d53fc536b61a6
+run_name: adorable-tern-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105771708
+status: 3
+tags: []
+user_id: Hiep

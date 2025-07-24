@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/0fdc6330176d4fe2a16f8a93db688fb0/artifacts
+end_time: 1753109855631
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 0fdc6330176d4fe2a16f8a93db688fb0
+run_name: bustling-mink-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753109700333
+status: 3
+tags: []
+user_id: Hiep

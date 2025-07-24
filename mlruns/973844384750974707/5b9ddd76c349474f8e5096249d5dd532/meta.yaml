@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/5b9ddd76c349474f8e5096249d5dd532/artifacts
+end_time: 1753085301270
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 5b9ddd76c349474f8e5096249d5dd532
+run_name: invincible-wren-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753085186695
+status: 3
+tags: []
+user_id: Hiep

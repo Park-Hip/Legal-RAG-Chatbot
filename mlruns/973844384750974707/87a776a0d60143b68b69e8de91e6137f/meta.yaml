@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/87a776a0d60143b68b69e8de91e6137f/artifacts
+end_time: 1753105355676
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 87a776a0d60143b68b69e8de91e6137f
+run_name: bold-dolphin-847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105331941
+status: 3
+tags: []
+user_id: Hiep

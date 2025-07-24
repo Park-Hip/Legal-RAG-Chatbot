@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/2f68f9f5b0f645cd9a81c46c85f03b96/artifacts
+end_time: 1753111527418
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 2f68f9f5b0f645cd9a81c46c85f03b96
+run_name: nervous-frog-175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111408634
+status: 3
+tags: []
+user_id: Hiep

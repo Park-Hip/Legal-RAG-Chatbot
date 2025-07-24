@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/c142b38a4eae440fa3b68e9c81895462/artifacts
+end_time: 1753106747787
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: c142b38a4eae440fa3b68e9c81895462
+run_name: dazzling-bug-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106697282
+status: 3
+tags: []
+user_id: Hiep

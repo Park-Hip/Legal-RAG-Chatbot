@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/ed6e86f1ef6e4edd9a589b8c1b608284/artifacts
+end_time: 1753107469559
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: ed6e86f1ef6e4edd9a589b8c1b608284
+run_name: thundering-crane-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753107423450
+status: 3
+tags: []
+user_id: Hiep

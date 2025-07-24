@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/4d7219e697a8498cb17148340706e94e/artifacts
+end_time: 1753117118684
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 4d7219e697a8498cb17148340706e94e
+run_name: burly-pug-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753117075266
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/2b798c147b0942c3837f2b2fa3e66716/artifacts
+end_time: 1753105771682
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 2b798c147b0942c3837f2b2fa3e66716
+run_name: glamorous-hog-90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105738194
+status: 3
+tags: []
+user_id: Hiep

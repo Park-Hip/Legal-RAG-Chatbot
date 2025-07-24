@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/926c49655d314eb68dd5896f835e76d8/artifacts
+end_time: 1753103790982
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 926c49655d314eb68dd5896f835e76d8
+run_name: dazzling-penguin-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753103757123
+status: 3
+tags: []
+user_id: Hiep

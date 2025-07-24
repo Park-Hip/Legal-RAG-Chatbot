@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/12d13373b9ab41f58edd3117442458bd/artifacts
+end_time: 1753112184321
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 12d13373b9ab41f58edd3117442458bd
+run_name: placid-bird-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753112126664
+status: 3
+tags: []
+user_id: Hiep

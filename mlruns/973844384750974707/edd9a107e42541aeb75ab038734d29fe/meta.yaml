@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/edd9a107e42541aeb75ab038734d29fe/artifacts
+end_time: 1753107090655
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: edd9a107e42541aeb75ab038734d29fe
+run_name: powerful-sheep-376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753107049600
+status: 3
+tags: []
+user_id: Hiep

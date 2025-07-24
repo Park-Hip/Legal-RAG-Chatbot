@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/973844384750974707
+creation_time: 1753084492820
+experiment_id: '973844384750974707'
+last_update_time: 1753267251620
+lifecycle_stage: active
+name: generate_eval_questions_for_retriever
+tags: {}

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/e0647f5166964484a952707034e16e25/artifacts
+end_time: 1753103334960
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: e0647f5166964484a952707034e16e25
+run_name: awesome-cow-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753103315767
+status: 3
+tags: []
+user_id: Hiep

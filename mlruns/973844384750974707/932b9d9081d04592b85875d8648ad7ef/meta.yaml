@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/932b9d9081d04592b85875d8648ad7ef/artifacts
+end_time: 1753110715531
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 932b9d9081d04592b85875d8648ad7ef
+run_name: marvelous-smelt-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753110642571
+status: 3
+tags: []
+user_id: Hiep

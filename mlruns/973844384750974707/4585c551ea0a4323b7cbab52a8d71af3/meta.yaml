@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/4585c551ea0a4323b7cbab52a8d71af3/artifacts
+end_time: 1753115742165
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 4585c551ea0a4323b7cbab52a8d71af3
+run_name: gaudy-flea-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753115661873
+status: 3
+tags: []
+user_id: Hiep

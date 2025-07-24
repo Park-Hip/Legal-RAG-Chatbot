@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/7132871044b9403aae71c805184d9c4b/artifacts
+end_time: 1753112587611
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 7132871044b9403aae71c805184d9c4b
+run_name: sassy-zebra-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753112550334
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/fa1d9a667ffb44a1a370d1db8586f670/artifacts
+end_time: 1753104696776
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: fa1d9a667ffb44a1a370d1db8586f670
+run_name: adaptable-kite-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104668866
+status: 3
+tags: []
+user_id: Hiep

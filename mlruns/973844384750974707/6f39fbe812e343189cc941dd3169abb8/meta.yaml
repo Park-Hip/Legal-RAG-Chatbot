@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/6f39fbe812e343189cc941dd3169abb8/artifacts
+end_time: 1753104172810
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 6f39fbe812e343189cc941dd3169abb8
+run_name: amazing-grouse-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104153180
+status: 3
+tags: []
+user_id: Hiep

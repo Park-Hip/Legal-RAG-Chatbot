@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/cd133b622aca4041a2d948fd0cd3f623/artifacts
+end_time: 1753105059523
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: cd133b622aca4041a2d948fd0cd3f623
+run_name: kindly-ant-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105027503
+status: 3
+tags: []
+user_id: Hiep

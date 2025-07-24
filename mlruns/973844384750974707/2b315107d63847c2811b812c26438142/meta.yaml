@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/2b315107d63847c2811b812c26438142/artifacts
+end_time: 1753104308496
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 2b315107d63847c2811b812c26438142
+run_name: secretive-ape-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104288369
+status: 3
+tags: []
+user_id: Hiep

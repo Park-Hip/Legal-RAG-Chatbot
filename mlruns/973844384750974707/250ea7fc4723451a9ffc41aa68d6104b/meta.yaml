@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/250ea7fc4723451a9ffc41aa68d6104b/artifacts
+end_time: 1753113179169
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 250ea7fc4723451a9ffc41aa68d6104b
+run_name: brawny-eel-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753113056558
+status: 3
+tags: []
+user_id: Hiep

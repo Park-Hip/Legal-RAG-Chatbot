@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/10656a4d894942a0ab11baf1329a232b/artifacts
+end_time: 1753107501884
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 10656a4d894942a0ab11baf1329a232b
+run_name: angry-loon-348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753107469585
+status: 3
+tags: []
+user_id: Hiep

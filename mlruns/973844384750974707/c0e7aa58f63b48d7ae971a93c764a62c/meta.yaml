@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/c0e7aa58f63b48d7ae971a93c764a62c/artifacts
+end_time: 1753105096916
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: c0e7aa58f63b48d7ae971a93c764a62c
+run_name: glamorous-boar-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105076866
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/fbd0ad45e422426793bff4431ddbabe4/artifacts
+end_time: 1753105855130
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: fbd0ad45e422426793bff4431ddbabe4
+run_name: resilient-squid-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105820091
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/570416ef7636464680931372f300e34a/artifacts
+end_time: 1753102634896
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 570416ef7636464680931372f300e34a
+run_name: grandiose-newt-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753102600637
+status: 3
+tags: []
+user_id: Hiep

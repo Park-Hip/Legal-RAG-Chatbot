@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/00593d2b3eca4d5bbe5c12c42fc7ca0d/artifacts
+end_time: 1753102867340
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 00593d2b3eca4d5bbe5c12c42fc7ca0d
+run_name: secretive-yak-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753102850861
+status: 3
+tags: []
+user_id: Hiep

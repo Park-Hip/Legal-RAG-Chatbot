@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/959d46f296d64a49a6be0e9b246aac8b/artifacts
+end_time: 1753118677089
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 959d46f296d64a49a6be0e9b246aac8b
+run_name: caring-shark-190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753118603747
+status: 3
+tags: []
+user_id: Hiep

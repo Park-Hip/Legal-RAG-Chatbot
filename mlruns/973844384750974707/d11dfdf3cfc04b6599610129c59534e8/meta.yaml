@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/d11dfdf3cfc04b6599610129c59534e8/artifacts
+end_time: 1753104153156
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: d11dfdf3cfc04b6599610129c59534e8
+run_name: thundering-fowl-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104113436
+status: 3
+tags: []
+user_id: Hiep

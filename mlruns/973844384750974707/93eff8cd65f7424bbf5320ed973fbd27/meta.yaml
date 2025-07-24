@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/93eff8cd65f7424bbf5320ed973fbd27/artifacts
+end_time: 1753119170132
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 93eff8cd65f7424bbf5320ed973fbd27
+run_name: popular-crow-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119097665
+status: 3
+tags: []
+user_id: Hiep

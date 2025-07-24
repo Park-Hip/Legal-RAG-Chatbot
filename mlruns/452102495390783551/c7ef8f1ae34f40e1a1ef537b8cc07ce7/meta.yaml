@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/452102495390783551/c7ef8f1ae34f40e1a1ef537b8cc07ce7/artifacts
+end_time: 1753348291341
+entry_point_name: ''
+experiment_id: '452102495390783551'
+lifecycle_stage: active
+run_id: c7ef8f1ae34f40e1a1ef537b8cc07ce7
+run_name: adorable-dolphin-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753348288720
+status: 3
+tags: []
+user_id: Hiep

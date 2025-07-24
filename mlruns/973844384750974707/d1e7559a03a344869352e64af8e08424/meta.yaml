@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/d1e7559a03a344869352e64af8e08424/artifacts
+end_time: 1753103616232
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: d1e7559a03a344869352e64af8e08424
+run_name: learned-penguin-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753103597988
+status: 3
+tags: []
+user_id: Hiep

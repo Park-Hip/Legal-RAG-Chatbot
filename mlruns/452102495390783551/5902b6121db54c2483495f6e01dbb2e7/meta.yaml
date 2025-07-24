@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/452102495390783551/5902b6121db54c2483495f6e01dbb2e7/artifacts
+end_time: 1753347110085
+entry_point_name: ''
+experiment_id: '452102495390783551'
+lifecycle_stage: active
+run_id: 5902b6121db54c2483495f6e01dbb2e7
+run_name: puzzled-goat-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753347108176
+status: 3
+tags: []
+user_id: Hiep

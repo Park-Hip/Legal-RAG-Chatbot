@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/88412c8b65e64f7980fe9c7ca2a68c22/artifacts
+end_time: 1753112465764
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 88412c8b65e64f7980fe9c7ca2a68c22
+run_name: able-bear-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753112383693
+status: 3
+tags: []
+user_id: Hiep

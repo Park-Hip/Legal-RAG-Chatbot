@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/9767c58c486e4150a13d0d384084d1e1/artifacts
+end_time: 1753104844455
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 9767c58c486e4150a13d0d384084d1e1
+run_name: spiffy-bat-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104820733
+status: 3
+tags: []
+user_id: Hiep

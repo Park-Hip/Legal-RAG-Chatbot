@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/b429166f813f49b1aa9ce9307450b29c/artifacts
+end_time: 1753118018824
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: b429166f813f49b1aa9ce9307450b29c
+run_name: wistful-penguin-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753117962503
+status: 3
+tags: []
+user_id: Hiep

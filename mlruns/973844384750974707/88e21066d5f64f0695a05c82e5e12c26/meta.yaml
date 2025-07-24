@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/88e21066d5f64f0695a05c82e5e12c26/artifacts
+end_time: 1753115661843
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 88e21066d5f64f0695a05c82e5e12c26
+run_name: fearless-skunk-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753115594828
+status: 3
+tags: []
+user_id: Hiep

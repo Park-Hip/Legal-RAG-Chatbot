@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/47918ce5588c4cbbbf337573bff59894/artifacts
+end_time: 1753114459049
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 47918ce5588c4cbbbf337573bff59894
+run_name: popular-dog-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114372248
+status: 3
+tags: []
+user_id: Hiep

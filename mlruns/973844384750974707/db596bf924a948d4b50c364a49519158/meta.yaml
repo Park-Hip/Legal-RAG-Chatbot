@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/db596bf924a948d4b50c364a49519158/artifacts
+end_time: 1753103106178
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: db596bf924a948d4b50c364a49519158
+run_name: youthful-penguin-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753103080724
+status: 3
+tags: []
+user_id: Hiep

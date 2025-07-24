@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/452102495390783551/e9a24005ede54411bd661ee0a1567c21/artifacts
+end_time: 1753352258694
+entry_point_name: ''
+experiment_id: '452102495390783551'
+lifecycle_stage: active
+run_id: e9a24005ede54411bd661ee0a1567c21
+run_name: chill-grouse-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753352255623
+status: 4
+tags: []
+user_id: Hiep

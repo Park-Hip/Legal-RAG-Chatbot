@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/f808fbbdbebe493386fd0e913214bc15/artifacts
+end_time: 1753105482753
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: f808fbbdbebe493386fd0e913214bc15
+run_name: wise-stork-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105442988
+status: 3
+tags: []
+user_id: Hiep

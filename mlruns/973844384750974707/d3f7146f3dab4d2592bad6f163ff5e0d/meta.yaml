@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/d3f7146f3dab4d2592bad6f163ff5e0d/artifacts
+end_time: 1753112550288
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: d3f7146f3dab4d2592bad6f163ff5e0d
+run_name: delightful-duck-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753112465795
+status: 3
+tags: []
+user_id: Hiep

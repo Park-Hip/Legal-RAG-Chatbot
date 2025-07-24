@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/452102495390783551/6c3bf26ff0794433b692762baed3a54f/artifacts
+end_time: 1753347095015
+entry_point_name: ''
+experiment_id: '452102495390783551'
+lifecycle_stage: active
+run_id: 6c3bf26ff0794433b692762baed3a54f
+run_name: victorious-frog-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753347093056
+status: 3
+tags: []
+user_id: Hiep

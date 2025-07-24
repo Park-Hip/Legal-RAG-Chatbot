@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/7bc082c21b644066b40f681dd3ba6f33/artifacts
+end_time: 1753106066792
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 7bc082c21b644066b40f681dd3ba6f33
+run_name: receptive-doe-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106042234
+status: 3
+tags: []
+user_id: Hiep

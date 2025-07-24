@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/a70d7926fe994748acd1884993a5cbd6/artifacts
+end_time: 1753114907867
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: a70d7926fe994748acd1884993a5cbd6
+run_name: casual-quail-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114794530
+status: 3
+tags: []
+user_id: Hiep

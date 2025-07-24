@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/86cb6e0ac4764b6981c2b17185706279/artifacts
+end_time: 1753109503056
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 86cb6e0ac4764b6981c2b17185706279
+run_name: delightful-sheep-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753109367339
+status: 3
+tags: []
+user_id: Hiep

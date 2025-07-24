@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/452102495390783551/b69acfc4935f4b0099c4162670ddb4e8/artifacts
+end_time: 1753338092841
+entry_point_name: ''
+experiment_id: '452102495390783551'
+lifecycle_stage: active
+run_id: b69acfc4935f4b0099c4162670ddb4e8
+run_name: salty-kite-220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753338091940
+status: 3
+tags: []
+user_id: Hiep

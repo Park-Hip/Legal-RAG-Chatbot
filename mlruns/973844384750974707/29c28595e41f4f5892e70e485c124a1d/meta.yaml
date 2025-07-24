@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/29c28595e41f4f5892e70e485c124a1d/artifacts
+end_time: 1753111988614
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 29c28595e41f4f5892e70e485c124a1d
+run_name: ambitious-calf-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111930393
+status: 3
+tags: []
+user_id: Hiep

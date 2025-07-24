@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/e5f3c27877d044a593d6b8a5fe1a13b5/artifacts
+end_time: 1753113444637
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: e5f3c27877d044a593d6b8a5fe1a13b5
+run_name: gregarious-shark-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753113376057
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/07286c8aac0f4615bafe1820bddd8d95/artifacts
+end_time: 1753115972931
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 07286c8aac0f4615bafe1820bddd8d95
+run_name: nimble-sloth-162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753115892769
+status: 3
+tags: []
+user_id: Hiep

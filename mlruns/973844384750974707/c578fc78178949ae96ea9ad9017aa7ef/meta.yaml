@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/c578fc78178949ae96ea9ad9017aa7ef/artifacts
+end_time: 1753104091744
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: c578fc78178949ae96ea9ad9017aa7ef
+run_name: bustling-bird-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104069310
+status: 3
+tags: []
+user_id: Hiep

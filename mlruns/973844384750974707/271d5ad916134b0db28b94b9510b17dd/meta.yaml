@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/271d5ad916134b0db28b94b9510b17dd/artifacts
+end_time: 1753110453616
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 271d5ad916134b0db28b94b9510b17dd
+run_name: respected-conch-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753110379994
+status: 3
+tags: []
+user_id: Hiep

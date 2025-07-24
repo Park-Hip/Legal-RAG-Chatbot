@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/7109d816c8cb42e59796551fa535c196/artifacts
+end_time: 1753252495366
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 7109d816c8cb42e59796551fa535c196
+run_name: article_bd96b23b-00ea-47f9-93c8-cb65fe29bbea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753252404669
+status: 3
+tags: []
+user_id: Hiep

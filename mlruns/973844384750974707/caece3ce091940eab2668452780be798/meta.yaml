@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/caece3ce091940eab2668452780be798/artifacts
+end_time: 1753117478443
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: caece3ce091940eab2668452780be798
+run_name: funny-snail-471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753117397162
+status: 3
+tags: []
+user_id: Hiep

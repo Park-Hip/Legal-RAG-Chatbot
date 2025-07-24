@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/a0f95a533cee4b42afeccdb58bf37754/artifacts
+end_time: 1753105903015
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: a0f95a533cee4b42afeccdb58bf37754
+run_name: skillful-bear-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105880969
+status: 3
+tags: []
+user_id: Hiep

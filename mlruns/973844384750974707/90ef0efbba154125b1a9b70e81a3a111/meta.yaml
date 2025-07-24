@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/90ef0efbba154125b1a9b70e81a3a111/artifacts
+end_time: 1753106594085
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 90ef0efbba154125b1a9b70e81a3a111
+run_name: ambitious-goat-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106549126
+status: 3
+tags: []
+user_id: Hiep

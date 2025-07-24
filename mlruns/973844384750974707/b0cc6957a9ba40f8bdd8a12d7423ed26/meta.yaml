@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/b0cc6957a9ba40f8bdd8a12d7423ed26/artifacts
+end_time: 1753105880938
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: b0cc6957a9ba40f8bdd8a12d7423ed26
+run_name: angry-colt-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105855154
+status: 3
+tags: []
+user_id: Hiep

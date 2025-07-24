@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/db767c8a80074ed0b2e1e3e0b8ee8ae7/artifacts
+end_time: 1753107727061
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: db767c8a80074ed0b2e1e3e0b8ee8ae7
+run_name: sneaky-ox-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753107689653
+status: 3
+tags: []
+user_id: Hiep

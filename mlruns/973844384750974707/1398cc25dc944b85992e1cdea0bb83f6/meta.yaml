@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/1398cc25dc944b85992e1cdea0bb83f6/artifacts
+end_time: 1753117652933
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 1398cc25dc944b85992e1cdea0bb83f6
+run_name: worried-squid-462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753117586278
+status: 3
+tags: []
+user_id: Hiep

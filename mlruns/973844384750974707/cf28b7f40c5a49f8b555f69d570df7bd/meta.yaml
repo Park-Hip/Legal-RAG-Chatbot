@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/cf28b7f40c5a49f8b555f69d570df7bd/artifacts
+end_time: 1753106042203
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: cf28b7f40c5a49f8b555f69d570df7bd
+run_name: sedate-grub-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106017557
+status: 3
+tags: []
+user_id: Hiep

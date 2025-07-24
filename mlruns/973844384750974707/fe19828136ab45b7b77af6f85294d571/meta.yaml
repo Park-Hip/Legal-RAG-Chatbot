@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/fe19828136ab45b7b77af6f85294d571/artifacts
+end_time: 1753103299557
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: fe19828136ab45b7b77af6f85294d571
+run_name: legendary-smelt-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753103263189
+status: 3
+tags: []
+user_id: Hiep

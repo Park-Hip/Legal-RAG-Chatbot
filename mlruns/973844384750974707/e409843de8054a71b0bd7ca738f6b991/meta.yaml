@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/e409843de8054a71b0bd7ca738f6b991/artifacts
+end_time: 1753115114899
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: e409843de8054a71b0bd7ca738f6b991
+run_name: abundant-jay-276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753114999845
+status: 3
+tags: []
+user_id: Hiep

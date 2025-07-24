@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/0d5e1f2d25214a9384f1f1def3dc9f72/artifacts
+end_time: 1753110642535
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 0d5e1f2d25214a9384f1f1def3dc9f72
+run_name: awesome-bee-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753110592288
+status: 3
+tags: []
+user_id: Hiep

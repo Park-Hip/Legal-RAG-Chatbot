@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/34602a80f8c4423ead452b46700d6039/artifacts
+end_time: 1753118534959
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 34602a80f8c4423ead452b46700d6039
+run_name: salty-horse-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753118488356
+status: 3
+tags: []
+user_id: Hiep

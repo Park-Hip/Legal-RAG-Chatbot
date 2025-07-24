@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/0f04b763ca6447d791b341a6b7fdedba/artifacts
+end_time: 1753108372239
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 0f04b763ca6447d791b341a6b7fdedba
+run_name: righteous-gull-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753108280064
+status: 3
+tags: []
+user_id: Hiep

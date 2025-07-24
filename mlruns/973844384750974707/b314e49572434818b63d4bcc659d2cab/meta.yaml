@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/b314e49572434818b63d4bcc659d2cab/artifacts
+end_time: 1753104799678
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: b314e49572434818b63d4bcc659d2cab
+run_name: traveling-cow-426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104779980
+status: 3
+tags: []
+user_id: Hiep

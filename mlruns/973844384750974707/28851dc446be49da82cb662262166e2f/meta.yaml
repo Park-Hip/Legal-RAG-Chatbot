@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/28851dc446be49da82cb662262166e2f/artifacts
+end_time: 1753106179865
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 28851dc446be49da82cb662262166e2f
+run_name: useful-wolf-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106156104
+status: 3
+tags: []
+user_id: Hiep

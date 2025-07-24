@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/aebb8c15cd3248f397ca4340e9b1dc31/artifacts
+end_time: 1753102780883
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: aebb8c15cd3248f397ca4340e9b1dc31
+run_name: persistent-worm-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753102759935
+status: 3
+tags: []
+user_id: Hiep

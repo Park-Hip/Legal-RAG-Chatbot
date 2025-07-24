@@ -1,0 +1,11 @@
+digest: 305be204
+name: dataset
+profile: '{"num_rows": 1281, "num_elements": 3843}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "questions", "required": true},
+  {"type": "array", "items": {"type": "string"}, "name": "ground_truth_doc_ids", "required":
+  true}, {"type": "array", "items": {"type": "string"}, "name": "retrieved_id", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "Hiep", "mlflow.source.name": "D:\\Data Science
+  Project\\Legal RAG chatbot\\evaluation\\retriever_eval.py", "mlflow.source.type":
+  "LOCAL", "mlflow.source.git.commit": "6d465ae17ae25443b17cad03c9fefc29fbc0d561"}}'
+source_type: code

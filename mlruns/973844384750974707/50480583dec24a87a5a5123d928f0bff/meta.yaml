@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/50480583dec24a87a5a5123d928f0bff/artifacts
+end_time: 1753105292554
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 50480583dec24a87a5a5123d928f0bff
+run_name: capable-bass-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105262589
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/451df5e65f434cbfa507baa85bedd37a/artifacts
+end_time: 1753112242524
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 451df5e65f434cbfa507baa85bedd37a
+run_name: bright-skink-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753112184353
+status: 3
+tags: []
+user_id: Hiep

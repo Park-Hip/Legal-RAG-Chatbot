@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/eabc9503fc6b41b1a91df2e56b5ac2f0/artifacts
+end_time: 1753117762328
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: eabc9503fc6b41b1a91df2e56b5ac2f0
+run_name: delightful-perch-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753117706140
+status: 3
+tags: []
+user_id: Hiep

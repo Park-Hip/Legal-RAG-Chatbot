@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/e010ab17b67443cfb10c780ddae39d73/artifacts
+end_time: 1753107809999
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: e010ab17b67443cfb10c780ddae39d73
+run_name: angry-seal-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753107769582
+status: 3
+tags: []
+user_id: Hiep

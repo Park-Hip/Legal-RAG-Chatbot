@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/2c4b2f9454344e2e8cc049c8662c791f/artifacts
+end_time: 1753106307447
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 2c4b2f9454344e2e8cc049c8662c791f
+run_name: salty-panda-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106283891
+status: 3
+tags: []
+user_id: Hiep

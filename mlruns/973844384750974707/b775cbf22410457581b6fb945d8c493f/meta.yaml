@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/b775cbf22410457581b6fb945d8c493f/artifacts
+end_time: 1753110592251
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: b775cbf22410457581b6fb945d8c493f
+run_name: dashing-bass-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753110453653
+status: 3
+tags: []
+user_id: Hiep

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/675c0f84e8a6442b827a7f59f8a79fc2/artifacts
+end_time: 1753112721053
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 675c0f84e8a6442b827a7f59f8a79fc2
+run_name: nervous-gull-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753112670169
+status: 3
+tags: []
+user_id: Hiep

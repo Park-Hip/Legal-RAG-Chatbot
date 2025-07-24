@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/597c7b1591884140bd3c77459e4af1f1/artifacts
+end_time: 1753109700313
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 597c7b1591884140bd3c77459e4af1f1
+run_name: whimsical-midge-348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753109503075
+status: 3
+tags: []
+user_id: Hiep

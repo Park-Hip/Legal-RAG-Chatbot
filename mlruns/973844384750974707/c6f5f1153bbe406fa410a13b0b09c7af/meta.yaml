@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/c6f5f1153bbe406fa410a13b0b09c7af/artifacts
+end_time: 1753112771817
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: c6f5f1153bbe406fa410a13b0b09c7af
+run_name: gifted-newt-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753112721088
+status: 3
+tags: []
+user_id: Hiep

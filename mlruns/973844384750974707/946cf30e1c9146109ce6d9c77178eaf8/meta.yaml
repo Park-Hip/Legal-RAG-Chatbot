@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/946cf30e1c9146109ce6d9c77178eaf8/artifacts
+end_time: 1753104758351
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 946cf30e1c9146109ce6d9c77178eaf8
+run_name: bedecked-dove-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104696808
+status: 3
+tags: []
+user_id: Hiep

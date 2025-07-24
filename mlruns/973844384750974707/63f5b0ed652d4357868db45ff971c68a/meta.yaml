@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/63f5b0ed652d4357868db45ff971c68a/artifacts
+end_time: 1753116770727
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 63f5b0ed652d4357868db45ff971c68a
+run_name: crawling-fish-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753116707773
+status: 3
+tags: []
+user_id: Hiep

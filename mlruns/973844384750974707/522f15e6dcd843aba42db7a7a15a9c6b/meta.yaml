@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/973844384750974707/522f15e6dcd843aba42db7a7a15a9c6b/artifacts
+end_time: 1753117831088
+entry_point_name: ''
+experiment_id: '973844384750974707'
+lifecycle_stage: active
+run_id: 522f15e6dcd843aba42db7a7a15a9c6b
+run_name: dazzling-snail-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753117793695
+status: 3
+tags: []
+user_id: Hiep
